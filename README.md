@@ -1,7 +1,6 @@
-# 👋 Hej!
+# 👋 Alfred Osewe
 
 Fullstackutvecklare med fokus på .NET och modern webbutveckling.  
-Just nu fördjupar jag mig inom C#, ASP.NET Core och React – och jag brinner för att bygga snygga, funktionella och välstrukturerade webblösningar.
 
 ---
 
@@ -39,7 +38,7 @@ Just nu fördjupar jag mig inom C#, ASP.NET Core och React – och jag brinner f
 
 Vill du samarbeta, erbjuda praktik eller bara nätverka? Tveka inte att höra av dig!  
 📧 **alfred.ochieng@chasacademy.se**  
-🌐 **[LinkedIn – lägg till länk om du har en]**
+🌐 **https://www.linkedin.com/in/alfred-osewe-b414b12a8/**
 
 ---
 
